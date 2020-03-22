@@ -1,0 +1,21 @@
+.form{
+	background: url(../lighted-candle-695644.jpg);
+	height: 100vh;
+	width: 80%;
+}
+.heading{
+	color:white;
+	font-size: 39px;
+	padding-top: 30px;
+	font-weight: bold;
+}
+.hr{
+	background-color:white;
+	width: 350px;
+}
+.label{
+	color: white;
+}
+.sign{
+	margin: 35px 240px;
+}
